@@ -7,8 +7,8 @@ import java.lang.annotation.Target;
 
 /**
  *
- * @since 1.1
- * @version 1.1
+ * @since 1.2
+ * @version 1.2
  * @author <a href="mailto:jaguar.adler@gmail.com">Jaguaraquem A. Reinaldo</a>
  */
 @Target(ElementType.TYPE)
